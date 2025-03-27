@@ -1,6 +1,7 @@
 **HackBio Internship Repository**
 
 **Introduction**
+
 This repository contains all the tasks completed as part of the HackBio Internship (Cancer 2024 - Data Science). The internship provided a hands-on opportunity to apply bioinformatics and machine learning techniques in oncology, with a particular focus on Non-Small Cell Lung Cancer (NSCLC).
 
 Through a series of structured tasks, this internship aimed to explore computational methods for cancer diagnosis, treatment planning, and prognosis prediction. The tasks covered a wide range of topics, including supervised learning, genomic analysis, and predictive modeling.
